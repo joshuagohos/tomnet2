@@ -1,0 +1,4 @@
+- 202408131221UTC+8. Josh update reports with 20240812 NSTC sub-project 6 en and cn versions.
+- 202407051422UTC+8. Josh Goh tried out ~/scripts/run_tomnet.py. Various different settings modulated tomnet2 accuracy.
+- 202404021107UTC+8. Josh Goh trying out docs/INSTRUCTIONS.md. Note: this is done using [Jessica Le's instance of Tomnet2.0](https://github.com/jessicale03/tomnet2-master), and the conda environment running on 140.112.122.54:/bml/Data/projects/tomnet2/env/
+- 202404021106UTC+8. Josh Goh started this CHANGELOG.md
