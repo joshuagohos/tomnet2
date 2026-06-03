@@ -1,0 +1,6 @@
+name: tomnet
+dependencies:
+  - absl-py=0.8.1
+  - pandas
+  - python=3.6.10
+  - tensorflow=1.12.0
